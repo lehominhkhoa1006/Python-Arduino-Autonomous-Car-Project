@@ -31,6 +31,11 @@ A mini **autonomous lane-keeping car** built with **Python + Arduino**, combinin
 - Stable movement with smooth turning mechanism  
 - Tested on a lab-scale track using tape lanes  
 
+## 🔮 Future Improvements  
+- Add **Lidar / Ultrasonic / GPS** for advanced navigation  
+- Optimize algorithms with **machine learning**  
+- Integrate **solar power** for sustainability  
+
 
 
 
