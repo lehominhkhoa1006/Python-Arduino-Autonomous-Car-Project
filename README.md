@@ -39,7 +39,7 @@ A mini **autonomous lane-keeping car** built with **Python + Arduino**, combinin
 ---
 
 👉 Developed by **Group 4 – HCMUTE (2024)**  
-Guiding lecturer: **PhD. Lê Thanh Phúc**\
+Guiding lecturer: **PhD. Lê Thanh Phúc**\\
 Members:
 - Lê Hồ Minh Khoa (leader)
 - Nguyễn Đặng Quốc Khánh
