@@ -42,9 +42,9 @@ A mini **autonomous lane-keeping car** built with **Python + Arduino**, combinin
 Guiding lecturer: **PhD. Lê Thanh Phúc**
 Leader: **Lê Hồ Minh Khoa** 
 Members:
-2. Nguyễn Đặng Quốc Khánh
-3. Nguyễn Anh Quốc
-4. Nguyễn Gia Bảo
+- Nguyễn Đặng Quốc Khánh
+- Nguyễn Anh Quốc
+- Nguyễn Gia Bảo
 
 
 
