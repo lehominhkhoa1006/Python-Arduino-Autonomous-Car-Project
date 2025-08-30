@@ -26,6 +26,10 @@ A mini **autonomous lane-keeping car** built with **Python + Arduino**, combinin
 3. Commands (Left / Right / Forward / Stop) sent via Serial  
 4. Arduino receives signals → controls motors accordingly  
 
+## 📊 Results  
+- Successfully detects lanes and follows a marked path  
+- Stable movement with smooth turning mechanism  
+- Tested on a lab-scale track using tape lanes  
 
 
 
