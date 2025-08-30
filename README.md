@@ -20,6 +20,12 @@ A mini **autonomous lane-keeping car** built with **Python + Arduino**, combinin
 - **Python (OpenCV, NumPy, Serial)** → Lane detection + decision making  
 - **Arduino IDE (AFMotor library)** → Motor control  
 
+## 🚀 How It Works  
+1. Webcam captures road lanes → processed with OpenCV  
+2. Python detects lanes, applies control logic (PID)  
+3. Commands (Left / Right / Forward / Stop) sent via Serial  
+4. Arduino receives signals → controls motors accordingly  
+
 
 
 
