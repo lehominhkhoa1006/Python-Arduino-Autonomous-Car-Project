@@ -36,6 +36,11 @@ A mini **autonomous lane-keeping car** built with **Python + Arduino**, combinin
 - Optimize algorithms with **machine learning**  
 - Integrate **solar power** for sustainability  
 
+---
+
+👉 Developed by **Group 4 – HCMUTE (2024)**  
+Guiding lecturer: **PhD. Lê Thanh Phúc**
+Leader: **Lê Hồ Minh Khoa** 
 
 
 
